@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melissa Ruelas</h1>
 <h3 align="center">A passionate frontend web developer</h3>
-<video align="Right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362400-6031665.mp4"
+<video align="Right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362400-6031665.mp4" </video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melissaruelas01&label=Profile%20views&color=0e75b6&style=flat" alt="melissaruelas01" /> </p>
 
