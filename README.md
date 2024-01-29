@@ -67,11 +67,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melissaruelas01&theme=dracula&show_icons=true&locale=en" alt="melissaruelas01" /></p>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=melissaruelas01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=melissaruelas01&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&alt=melissaruelas01)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melissaruelas01&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melissaruelas01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
