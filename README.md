@@ -1,14 +1,14 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Melissa+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melissaruelas01&label=Profile%20views&color=0e75b6&style=flat" alt="melissaruelas01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melissaruelas01&label=Profile%20views&color=4b0082&style=flat" alt="melissaruelas01" /> </p>
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400px" ></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Web%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English%20&%20Spanish-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Web%20Development-indigo" />
+  <img src="https://img.shields.io/badge/Languages-English%20&%20Spanish-indigo" />
 </p>
 
 - 🔭 I’m currently working on **my side projects**
@@ -70,9 +70,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=melissaruelas01&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&alt=melissaruelas01)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=melissaruelas01&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melissaruelas01&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=melissaruelas01&theme=material-palenight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&alt=melissaruelas01)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=melissaruelas01&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=melissaruelas01&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
 </a>
 </div>
