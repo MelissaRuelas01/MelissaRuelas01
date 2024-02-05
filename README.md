@@ -87,7 +87,7 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/melissa-ruelas01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melissa-ruelas01" height="30" width="40" /></a>
+   <a href="www.linkedin.com/in/melissa-ruelas01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/melissa-ruelas01" height="30" width="40" /></a>
 <a href="https://instagram.com/melissalissetht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melissalissetht" height="30" width="40" />
       
 </p>
