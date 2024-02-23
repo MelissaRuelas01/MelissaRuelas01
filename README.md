@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on **my side projects**
-- 🌱 I’m currently learning **PHP, Ruby, MongoDB**
+- 🌱 I’m currently learning **PHP, Ruby, and MongoDB**
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://melissa-portfolio-website.netlify.app/)**
 - 📫 How to reach me **MelissaRuelas01@outlook.com**
 - ⚡ Fun fact **I am Funny**
