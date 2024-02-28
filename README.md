@@ -3,9 +3,12 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melissaruelas01&label=Profile%20views&color=4b0082&style=flat" alt="melissaruelas01" /> </p>
 	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## <picture><img src = "https://github.com/MelissaRuelas01/MelissaRuelas01/assets/139489011/7d4f2abd-03e2-42d9-b23e-e5d43762d2d0" width =75px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400px" ></picture>
+
+
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="380px" ></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Web%20Development-indigo" />
   <img src="https://img.shields.io/badge/Languages-English%20&%20Spanish-indigo" />
@@ -16,10 +19,9 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://melissa-portfolio-website.netlify.app/)**
 - 📫 How to reach me **MelissaRuelas01@outlook.com**
 - ⚡ Fun fact **I am Funny**
+  
 
-
-
-
+<br>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
