@@ -3,7 +3,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melissaruelas01&label=Profile%20views&color=4b0082&style=flat" alt="melissaruelas01" /> </p>
 	
-## <picture><img src = "https://github.com/MelissaRuelas01/MelissaRuelas01/assets/139489011/e29f3042-da2c-461e-aed3-6d5fe81994da" width =75px></picture> **About me**
+## <picture><img src = "https://github.com/MelissaRuelas01/MelissaRuelas01/assets/139489011/e29f3042-da2c-461e-aed3-6d5fe81994da" width =55px></picture> **About me**
 
 
 
